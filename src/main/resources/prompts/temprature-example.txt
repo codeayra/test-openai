@@ -1,0 +1,7 @@
+Delhi : 25
+bangalore : 22
+chennai : 30
+kolkata : 28
+mumbai : 27
+hyderabad : 26
+pune : 24

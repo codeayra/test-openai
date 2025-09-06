@@ -1,0 +1,2 @@
+Provide a list of 5 popular books in the {genre} genre, formatted as a numbered list with each book title on a new line.
+If you don't know any books in that genre, just say "I don't know any books in that genre.
